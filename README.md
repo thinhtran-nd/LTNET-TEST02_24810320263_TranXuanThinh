@@ -5,7 +5,7 @@
 * **Mã số sinh viên:** 24810320263
 * **Lớp học phần:** Lập trình .NET 
 
-* **Link Repository:** 
+* **Link Repository:** https://github.com/thinhtran-nd/LTNET-TEST02_24810320263_TranXuanThinh
 
 ---
 
