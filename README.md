@@ -78,7 +78,7 @@ bình thường.*
 ### 5. Bài 5: MÔ PHỎNG GIÁM SÁT HỆ THỐNG CẢNH BÁO IOT REAL-TIME(CROSS-THREAD SAFETY & PROCESSSING)
 * **Hình ảnh minh họa Giao diện:**
 
-
+<img width="1905" height="560" alt="bai5-main" src="https://github.com/user-attachments/assets/d65ca23b-455c-44a3-bc64-9810d71f11b0" />
 *Mô tả: Khung Form cha MDI điều khiển mở các Form con xếp tầng.*
 
 
