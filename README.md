@@ -29,8 +29,6 @@
 ## III. MINH HỌA GIAO DIỆN & KỸ THUẬT NỔI BẬT
 
 ### 1. Bài 1: QUẢN LÝ ĐẶT PHÒNG KHÁCH SẠN
-* **Kỹ thuật áp dụng:** Cấu hình DataGridView bằng code (`AutoGenerateColumns =
-false`), Data Binding 2 chiều với `BindingSource`, Validation với `ErrorProvider`.
 * **Hình ảnh minh họa Giao diện:**
 
 <img width="1347" height="920" alt="bai1_main" src="https://github.com/user-attachments/assets/972dec40-1986-46aa-9c79-d6320cbde171" />
@@ -43,8 +41,6 @@ TextBox.*
 ---
 
 ### 2. Bài 2: QUẢN LÝ HỒ SƠ NHÂN SỰ & THÔNG TIN LƯƠNG
-* **Kỹ thuật áp dụng:** `OpenFileDialog` (Tải ảnh bìa), `SaveFileDialog` /
-`OpenFileDialog` (Đọc/Ghi file CSV), Cập nhật `StatusStrip` theo thời gian thực.
 * **Hình ảnh minh họa Giao diện:**
 
 <img width="1170" height="792" alt="bai2_main" src="https://github.com/user-attachments/assets/1ccaedd3-6a98-4242-aac7-1e181dd281df" />
@@ -55,8 +51,6 @@ CSV.*
 ---
 
 ### 3. Bài 3: HỆ THỐNG MDI QUẢN LÝ TRƯỜNG HỌC & ĐÀO TẠO (KIẾN TRÚC MDI)
-* **Kỹ thuật áp dụng:** MDI Container, Quản lý chống mở trùng Form con,
-`async/await` chống treo UI, Safe Cross-Thread bằng `this.Invoke()`.
 * **Hình ảnh minh họa Giao diện:**
 
 <img width="1352" height="858" alt="bai3_mdi" src="https://github.com/user-attachments/assets/518706c1-ef76-4ca7-ae08-e59cd22d84a9" />
@@ -70,8 +64,6 @@ bình thường.*
 ---
 
 ### 4. Bài 4: BẢNG ĐIỀU KHIỂN TỔNG HỢP BÁO CÁO KHO HÀNG(ASYNC/AWAIT & KHÔNG KHÓA UI)
-* **Kỹ thuật áp dụng:** MDI Container, Quản lý chống mở trùng Form con,
-`async/await` chống treo UI, Safe Cross-Thread bằng `this.Invoke()`.
 * **Hình ảnh minh họa Giao diện:**
 
 <img width="881" height="573" alt="bai4_async" src="https://github.com/user-attachments/assets/1dfe3200-f0ac-4c70-b86f-4c11f2e3d7d7" />
@@ -84,8 +76,6 @@ bình thường.*
 ---
 
 ### 5. Bài 5: MÔ PHỎNG GIÁM SÁT HỆ THỐNG CẢNH BÁO IOT REAL-TIME(CROSS-THREAD SAFETY & PROCESSSING)
-* **Kỹ thuật áp dụng:** MDI Container, Quản lý chống mở trùng Form con,
-`async/await` chống treo UI, Safe Cross-Thread bằng `this.Invoke()`.
 * **Hình ảnh minh họa Giao diện:**
 
 
